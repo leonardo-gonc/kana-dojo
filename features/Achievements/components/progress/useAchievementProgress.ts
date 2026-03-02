@@ -109,7 +109,7 @@ export const useAchievementProgress = () => {
           const contentType = additional?.contentType;
           const targetAccuracy = target;
 
-          let entries = Object.entries(allTimeStats.characterMastery ?? {});
+          const entries = Object.entries(allTimeStats.characterMastery ?? {});
           let relevantEntries: Array<
             [string, { correct: number; incorrect: number }]
           > = [];
