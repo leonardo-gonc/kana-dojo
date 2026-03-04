@@ -147,7 +147,7 @@
     "character": "Various protagonists",
     "id": 15,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "それもまた一興",
@@ -157,7 +157,7 @@
     "character": "Nobunaga Oda",
     "id": 16,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "世界を救うって、そういうことだろ？",
@@ -167,7 +167,7 @@
     "character": "Joker",
     "id": 17,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "風が、来る！",
@@ -177,7 +177,7 @@
     "character": "Revali",
     "id": 18,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "俺たちの物語は、ここからだ",
@@ -957,7 +957,7 @@
     "character": "Nobunaga Oda",
     "id": 96,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "世界を救うって、そういうことだろ？",
@@ -967,7 +967,7 @@
     "character": "Joker",
     "id": 97,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "風が、来る！",
@@ -987,7 +987,7 @@
     "character": "Various endings",
     "id": 99,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "勝つと思うな、思えば負けよ",
@@ -997,7 +997,7 @@
     "character": "Musashi reference",
     "id": 100,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "まだまだだね",
@@ -1007,7 +1007,7 @@
     "character": "Ryoma Echizen",
     "id": 101,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "約束された勝利の剣",
@@ -1016,7 +1016,7 @@
     "game": "Fate/stay night [Realta Nua]",
     "character": "Saber",
     "id": 102,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
